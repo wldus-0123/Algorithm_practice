@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Backtracking_Practice", "Ba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greedy_Practice", "Greedy_Practice\Greedy_Practice.csproj", "{E43E9057-A76F-4B57-A671-8EAC05B8AA5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_Practice", "Sort_Practice\Sort_Practice.csproj", "{86389BF9-0D1C-4F02-A7A8-069F02CD9018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort_Practice", "Sort_Practice\Sort_Practice.csproj", "{86389BF9-0D1C-4F02-A7A8-069F02CD9018}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Searching_Practice", "Searching_Practice\Searching_Practice.csproj", "{ED8DF24A-D296-49C7-8127-012CE241BD63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra_Practice", "Dijkstra_Practice\Dijkstra_Practice.csproj", "{4F40042C-820A-4AB4-8C62-26631A2AB57B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{86389BF9-0D1C-4F02-A7A8-069F02CD9018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86389BF9-0D1C-4F02-A7A8-069F02CD9018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86389BF9-0D1C-4F02-A7A8-069F02CD9018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8DF24A-D296-49C7-8127-012CE241BD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8DF24A-D296-49C7-8127-012CE241BD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8DF24A-D296-49C7-8127-012CE241BD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8DF24A-D296-49C7-8127-012CE241BD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F40042C-820A-4AB4-8C62-26631A2AB57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F40042C-820A-4AB4-8C62-26631A2AB57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F40042C-820A-4AB4-8C62-26631A2AB57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F40042C-820A-4AB4-8C62-26631A2AB57B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
